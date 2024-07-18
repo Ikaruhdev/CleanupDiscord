@@ -14,7 +14,7 @@ Este repositório contém um comando para um bot Discord que permite a exclusão
 
 ## Descrição
 
-Este comando permite que um bot Discord exclua um número específico de mensagens em um canal, entre 10 e 100 mensagens. Útil para moderação e manutenção de canais.
+Este comando permite que um bot Discord exclua um número específico de mensagens em um canal, entre 10 e 100 mensagens de uma forma super rapida sem rate-limit
 
 ```javascript
 /***************************************************************************/
